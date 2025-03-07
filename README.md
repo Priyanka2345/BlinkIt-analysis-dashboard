@@ -50,4 +50,7 @@ This dashboard helps business analysts, managers, and stakeholders:
 ## Dashboard
 ![blinkit](https://github.com/user-attachments/assets/9a70aab9-1a4f-4237-908d-de4423f12efc)
 
+## Conclusion
+The Power BI dashboard reveals strong overall sales of **$1.20M**, with **Tier 3 cities** leading in revenue. **Supermarkets dominate sales**, while grocery stores contribute the least. **Regular-fat products** outsell low-fat ones, and **fruits, snacks, and household items** are the top-selling categories. Sales peaked in **2020 ($205K)** but later declined, indicating the need for strategic interventions. **Customer ratings (3.9) suggest room for improvement**, and **item visibility in supermarkets is low**. To sustain growth, the business should **focus on Tier 3 expansion, enhance supermarket visibility, optimize inventory for high-demand items, and improve customer satisfaction.**
+
 

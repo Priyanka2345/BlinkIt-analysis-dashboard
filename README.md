@@ -2,6 +2,10 @@
 
 ## Overview  
 This Power BI dashboard provides insights into Blinkit's sales performance across different outlets and product categories. It enables users to analyze trends, compare locations, and identify key revenue-driving factors.  
+
+## Dataset Used
+<a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset used</a>
+
 ## Features  
 - **Key Performance Indicators (KPIs):**  
   - Total Sales ($1.20M)  
@@ -25,6 +29,8 @@ This Power BI dashboard provides insights into Blinkit's sales performance acros
   - Location-wise sales distribution  
   - Outlet Type Comparison  
 
+<a href=""> View Dashboard </a>
+
 ## Usage  
 This dashboard helps business analysts, managers, and stakeholders:  
 - Identify high-revenue products and categories  
@@ -38,10 +44,10 @@ This dashboard helps business analysts, managers, and stakeholders:
 3. Analyze the sales breakdown to identify top-performing outlets and products.  
 
 ## Requirements  
-<a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset used</a>
+- Power BI Desktop or Power BI Service  
+- Data source connected to sales records of Blinkit  
 
 ## Dashboard
-<a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/BlinkIT%20dashboard.pbix"> View Dashboard</a>
 ![blinkit_dashboard](https://github.com/user-attachments/assets/f2ee998b-ae42-4a73-9461-16d6bb0fa9e7)
 
 

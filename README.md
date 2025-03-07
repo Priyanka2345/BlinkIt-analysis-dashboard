@@ -29,7 +29,7 @@ This Power BI dashboard provides insights into Blinkit's sales performance acros
   - Location-wise sales distribution  
   - Outlet Type Comparison  
 
-<a href=""> View Dashboard </a>
+<a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/blinkit.png"> View Dashboard </a>
 
 ## Usage  
 This dashboard helps business analysts, managers, and stakeholders:  
@@ -48,6 +48,6 @@ This dashboard helps business analysts, managers, and stakeholders:
 - Data source connected to sales records of Blinkit  
 
 ## Dashboard
-![blinkit_dashboard](https://github.com/user-attachments/assets/f2ee998b-ae42-4a73-9461-16d6bb0fa9e7)
+![blinkit](https://github.com/user-attachments/assets/9a70aab9-1a4f-4237-908d-de4423f12efc)
 
 

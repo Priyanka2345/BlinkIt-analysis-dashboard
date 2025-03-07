@@ -38,5 +38,5 @@ This dashboard helps business analysts, managers, and stakeholders:
 3. Analyze the sales breakdown to identify top-performing outlets and products.  
 
 ## Requirements  
-- Power BI Desktop or Power BI Service  
-- Data source connected to sales records of Blinkit  
+<a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset used</a>
+

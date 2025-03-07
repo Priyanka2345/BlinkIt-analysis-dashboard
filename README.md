@@ -41,6 +41,7 @@ This dashboard helps business analysts, managers, and stakeholders:
 <a href="https://github.com/Priyanka2345/BlinkIt-analysis-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset used</a>
 
 ## Dashboard
+<a href=""> View Dashboard</a>
 ![blinkit_dashboard](https://github.com/user-attachments/assets/f2ee998b-ae42-4a73-9461-16d6bb0fa9e7)
 
 
